@@ -11,12 +11,13 @@ using Employee_Attendence_and_Task_Monitoring_System.Presentation_layer;
 using Employee_Attendence_and_Task_Monitoring_System.Data_Access_Layer;
 using Employee_Attendence_and_Task_Monitoring_System.Business_Logic_layer;
 using System.Data.SqlClient;
+using 
 
 
 
 namespace Employee_Attendence_and_Task_Monitoring_System
 {
-    public partial class Form1 : Form
+    public partial class Form1 : MetroFramework.Forms.MetroForm
     {
         //Admin_Info ai ;
         

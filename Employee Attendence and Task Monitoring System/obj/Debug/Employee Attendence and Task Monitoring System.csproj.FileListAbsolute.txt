@@ -24,3 +24,6 @@ C:\Users\asus\Desktop\Employee Attendence and Task Monitoring System\Employee At
 E:\Courses\OOP2\Employee Attendence and Task Monitoring System\Employee Attendence and Task Monitoring System\bin\Debug\Employee Attendence and Task Monitoring System.exe.config
 E:\Courses\OOP2\Employee Attendence and Task Monitoring System\Employee Attendence and Task Monitoring System\obj\Debug\Employee Attendence and Task Monitoring System.exe
 E:\Courses\OOP2\Employee Attendence and Task Monitoring System\Employee Attendence and Task Monitoring System\obj\Debug\Employee Attendence and Task Monitoring System.pdb
+F:\bbbbbbbbbbbbbbbbbbbb\EmployeeMonitorSystem\Employee Attendence and Task Monitoring System\bin\Debug\Employee Attendence and Task Monitoring System.exe.config
+F:\bbbbbbbbbbbbbbbbbbbb\EmployeeMonitorSystem\Employee Attendence and Task Monitoring System\obj\Debug\Employee Attendence and Task Monitoring System.exe
+F:\bbbbbbbbbbbbbbbbbbbb\EmployeeMonitorSystem\Employee Attendence and Task Monitoring System\obj\Debug\Employee Attendence and Task Monitoring System.pdb
